@@ -3,7 +3,6 @@
 # ☕ Data Structures in Java
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
 A comprehensive, ground-up implementation of fundamental data structures in Java. This repository serves as an educational tool and a practical reference for understanding how data structures operate under the hood.
 
